@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Cengizhan-NBT
 - 👀 I’m interested in IoT, Recruiting, Music, Cooking, Sports
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cengizhan.akan@nbt.ag
 
 <!---
